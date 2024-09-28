@@ -1,1 +1,1 @@
-name = "Alexandre"
+print("87$")
